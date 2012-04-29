@@ -9,10 +9,7 @@ Please use the code for learning and not for evil ;)
 
 ## About the Author
 
-The author is currently a student at Amrita University, Coimbatore, India. He was very sleepy when writing this. He also likes to talk about himself in third person. He blogs at:
-
-* Hmm...(http://nobodydude.blogspot.in)
-* Its a programmer thing...(http://programmerthing.blogspot.in)
+The author is currently a student at Amrita University, Coimbatore, India. He was very sleepy when writing this. He also likes to talk about himself in third person. 
 
 ## License
 
